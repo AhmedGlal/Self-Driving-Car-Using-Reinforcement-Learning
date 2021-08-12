@@ -1,0 +1,2 @@
+# Self-Driving-Car-Using-Reinforcement-Learning
+Most of the current self-driving cars make use of multiple algorithms to drive. Furthermore, most of the approaches use supervised learning to train a model to drive the car autonomously. This approach leads to human bias being incorporated into the model. We implement the Deep Q-Learning algorithm to control a simulated car, end-to-end, autonomously. 
